@@ -1,0 +1,33 @@
+# TorqueByte Releases
+
+This repository contains official releases of the DatabaseB2B application.
+
+## ⚠️ Important Notes
+
+- This repository contains **NO SOURCE CODE**
+- Only compiled releases and metadata are stored here
+- For support, please contact the development team
+
+## Download Latest Release
+
+1. Go to the [Releases](https://github.com/ketoprofen/TorqueByte-releases/releases) section
+2. Download the latest `DatabaseB2B-*.zip` file
+3. Extract and run the application
+
+## Version History
+
+All releases include:
+- Compiled application files
+- Installation instructions
+- Changelog for that version
+
+## Security
+
+All releases are:
+- Digitally signed when possible
+- Scanned for malware
+- Tested on clean systems before release
+
+---
+
+**Note**: This is a releases-only repository. Source code is maintained separately in a private repository.
