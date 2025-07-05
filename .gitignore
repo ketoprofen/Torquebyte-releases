@@ -1,0 +1,33 @@
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Build artifacts (if any)
+build/
+dist/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Never commit source code files
+*.py
+*.js
+*.css
+*.html
+src/
+source/
+
+# Only allow specific release files
+!README.md
+!CHANGELOG.md
+!version.json
+!LICENSE
+!*.zip
+!*.exe
+!*.msi
